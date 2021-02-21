@@ -8,7 +8,15 @@
 #### Excel Data File
 
 Sistemi test edebilmek TestBase sınıfındaki Driver yolunu güncelleyin.
-Kullanıcı bilgileri Excel dosyasından alınıyor.
+
+Projeyi çalıştırmak için;
+#### mvn clean test
+
+Rapor için;
+#### allure serve allure-results 
+ya da
+#### allure generate allure-results -c -o allure-report
+
 
 Senaryo
 - hepsiburada.com sitesine gidilecek ve anasayfanın açıldığını onaylayacak,
