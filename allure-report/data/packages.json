@@ -1,0 +1,87 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "com.hepsiburada.test.HBTest",
+    "children" : [ {
+      "name" : "verifyHomePage",
+      "uid" : "49fbf9dce4c6b8fa",
+      "parentUid" : "e02c493d16899341526cbc6fc75009eb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1613935746985,
+        "stop" : 1613935747061,
+        "duration" : 76
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "verifyLogin",
+      "uid" : "b9f7c766b672bf07",
+      "parentUid" : "e02c493d16899341526cbc6fc75009eb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1613935747207,
+        "stop" : 1613935756033,
+        "duration" : 8826
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "verifySearchBar",
+      "uid" : "e72704fff640b776",
+      "parentUid" : "e02c493d16899341526cbc6fc75009eb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1613935756040,
+        "stop" : 1613935759163,
+        "duration" : 3123
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "verifyPageTwo",
+      "uid" : "62c8d82aece2692d",
+      "parentUid" : "e02c493d16899341526cbc6fc75009eb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1613935759169,
+        "stop" : 1613935761253,
+        "duration" : 2084
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "verifyFavouriteProduct",
+      "uid" : "a5f85b26d5c1fc60",
+      "parentUid" : "e02c493d16899341526cbc6fc75009eb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1613935761261,
+        "stop" : 1613935763750,
+        "duration" : 2489
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "verifyDeleteProduct",
+      "uid" : "1eb0bf404224091c",
+      "parentUid" : "e02c493d16899341526cbc6fc75009eb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1613935763754,
+        "stop" : 1613935764636,
+        "duration" : 882
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "com.hepsiburada.test.HBTest"
+  } ]
+}

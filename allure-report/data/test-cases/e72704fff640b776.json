@@ -1,0 +1,167 @@
+{
+  "uid" : "e72704fff640b776",
+  "name" : "Ürün aramayı doğrula. ",
+  "fullName" : "com.hepsiburada.test.HBTest.verifySearchBar",
+  "historyId" : "8fb4cea423c9a6fa9b89d3b488ebaf72",
+  "time" : {
+    "start" : 1613935756040,
+    "stop" : 1613935759163,
+    "duration" : 3123
+  },
+  "description" : "Ürün ismi aratıldığında sonuç döndürüldüğünü kontrol et.",
+  "descriptionHtml" : "<p>Ürün ismi aratıldığında sonuç döndürüldüğünü kontrol et.</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "setUp",
+    "time" : {
+      "start" : 1613935737537,
+      "stop" : 1613935746859,
+      "duration" : 9322
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "testStage" : {
+    "description" : "Ürün ismi aratıldığında sonuç döndürüldüğünü kontrol et.",
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Ürün aranıyor. samsung ",
+      "time" : {
+        "start" : 1613935756041,
+        "stop" : 1613935756419,
+        "duration" : 378
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ {
+        "name" : "productName",
+        "value" : "samsung"
+      } ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "hasContent" : true,
+      "stepsCount" : 0
+    }, {
+      "name" : "Beklenen arama sonucu : ürün bulduk.",
+      "time" : {
+        "start" : 1613935756420,
+        "stop" : 1613935756420,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ {
+        "name" : "message",
+        "value" : "Beklenen arama sonucu : ürün bulduk."
+      } ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "hasContent" : true,
+      "stepsCount" : 0
+    }, {
+      "name" : "Gelen arama sonucu : ürün bulduk.",
+      "time" : {
+        "start" : 1613935759083,
+        "stop" : 1613935759083,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ {
+        "name" : "message",
+        "value" : "Gelen arama sonucu : ürün bulduk."
+      } ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "hasContent" : true,
+      "stepsCount" : 0
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "hasContent" : true,
+    "stepsCount" : 3
+  },
+  "afterStages" : [ {
+    "name" : "tearDown",
+    "time" : {
+      "start" : 1613935764639,
+      "stop" : 1613935765360,
+      "duration" : 721
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "com.hepsiburada.test.HBTest"
+  }, {
+    "name" : "testClass",
+    "value" : "com.hepsiburada.test.HBTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "verifySearchBar"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Surefire suite"
+  }, {
+    "name" : "suite",
+    "value" : "Surefire test"
+  }, {
+    "name" : "subSuite",
+    "value" : "com.hepsiburada.test.HBTest"
+  }, {
+    "name" : "host",
+    "value" : "LAPTOP-4MK4FSI1"
+  }, {
+    "name" : "thread",
+    "value" : "16204@LAPTOP-4MK4FSI1.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "story",
+    "value" : "Ürün Arama Kontrolü"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e72704fff640b776.json",
+  "parameterValues" : [ ]
+}

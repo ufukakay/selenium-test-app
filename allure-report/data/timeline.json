@@ -1,0 +1,91 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "LAPTOP-4MK4FSI1",
+    "children" : [ {
+      "name" : "16204@LAPTOP-4MK4FSI1.main(1)",
+      "children" : [ {
+        "name" : "Ürünün silindiğini doğrula.",
+        "uid" : "1eb0bf404224091c",
+        "parentUid" : "5577142a21e7ada9fa224100490227e4",
+        "status" : "passed",
+        "time" : {
+          "start" : 1613935763754,
+          "stop" : 1613935764636,
+          "duration" : 882
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Anasayfa'nın açıldığını doğrula.",
+        "uid" : "49fbf9dce4c6b8fa",
+        "parentUid" : "5577142a21e7ada9fa224100490227e4",
+        "status" : "passed",
+        "time" : {
+          "start" : 1613935746985,
+          "stop" : 1613935747061,
+          "duration" : 76
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Doğru email ve doğru şifre ile doğrula. ",
+        "uid" : "b9f7c766b672bf07",
+        "parentUid" : "5577142a21e7ada9fa224100490227e4",
+        "status" : "passed",
+        "time" : {
+          "start" : 1613935747207,
+          "stop" : 1613935756033,
+          "duration" : 8826
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Ürün aramayı doğrula. ",
+        "uid" : "e72704fff640b776",
+        "parentUid" : "5577142a21e7ada9fa224100490227e4",
+        "status" : "passed",
+        "time" : {
+          "start" : 1613935756040,
+          "stop" : 1613935759163,
+          "duration" : 3123
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "2. sayfaya gittiğini doğrula.",
+        "uid" : "62c8d82aece2692d",
+        "parentUid" : "5577142a21e7ada9fa224100490227e4",
+        "status" : "passed",
+        "time" : {
+          "start" : 1613935759169,
+          "stop" : 1613935761253,
+          "duration" : 2084
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Ürünün favorilere eklendiğini doğrula.",
+        "uid" : "a5f85b26d5c1fc60",
+        "parentUid" : "5577142a21e7ada9fa224100490227e4",
+        "status" : "passed",
+        "time" : {
+          "start" : 1613935761261,
+          "stop" : 1613935763750,
+          "duration" : 2489
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "5577142a21e7ada9fa224100490227e4"
+    } ],
+    "uid" : "7270b3b4711381bf3d9b5c2f98e705cc"
+  } ]
+}

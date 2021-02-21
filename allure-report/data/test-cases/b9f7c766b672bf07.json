@@ -1,0 +1,179 @@
+{
+  "uid" : "b9f7c766b672bf07",
+  "name" : "Doğru email ve doğru şifre ile doğrula. ",
+  "fullName" : "com.hepsiburada.test.HBTest.verifyLogin",
+  "historyId" : "a8298395bf029f4b8cf4268143c6b026",
+  "time" : {
+    "start" : 1613935747207,
+    "stop" : 1613935756033,
+    "duration" : 8826
+  },
+  "description" : "Doğru email ve doğru şifre ile kullanıcı girişini kontrol et. ",
+  "descriptionHtml" : "<p>Doğru email ve doğru şifre ile kullanıcı girişini kontrol et.</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "setUp",
+    "time" : {
+      "start" : 1613935737537,
+      "stop" : 1613935746859,
+      "duration" : 9322
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "testStage" : {
+    "description" : "Doğru email ve doğru şifre ile kullanıcı girişini kontrol et. ",
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Kullanıcı girişi sayfasına git.",
+      "time" : {
+        "start" : 1613935747207,
+        "stop" : 1613935749307,
+        "duration" : 2100
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "hasContent" : false,
+      "stepsCount" : 0
+    }, {
+      "name" : "Kullanıcı email : denemetesthb@gmail.com ",
+      "time" : {
+        "start" : 1613935750491,
+        "stop" : 1613935751613,
+        "duration" : 1122
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ {
+        "name" : "email",
+        "value" : "denemetesthb@gmail.com"
+      } ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "hasContent" : true,
+      "stepsCount" : 0
+    }, {
+      "name" : "Kullanıcı şifresi : dEneme1234 ",
+      "time" : {
+        "start" : 1613935751614,
+        "stop" : 1613935751759,
+        "duration" : 145
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ {
+        "name" : "password",
+        "value" : "dEneme1234"
+      } ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "hasContent" : true,
+      "stepsCount" : 0
+    }, {
+      "name" : "Kullanıcı girişi yapılıyor.",
+      "time" : {
+        "start" : 1613935751759,
+        "stop" : 1613935751821,
+        "duration" : 62
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "hasContent" : false,
+      "stepsCount" : 0
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "hasContent" : true,
+    "stepsCount" : 4
+  },
+  "afterStages" : [ {
+    "name" : "tearDown",
+    "time" : {
+      "start" : 1613935764639,
+      "stop" : 1613935765360,
+      "duration" : 721
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "com.hepsiburada.test.HBTest"
+  }, {
+    "name" : "testClass",
+    "value" : "com.hepsiburada.test.HBTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "verifyLogin"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Surefire suite"
+  }, {
+    "name" : "suite",
+    "value" : "Surefire test"
+  }, {
+    "name" : "subSuite",
+    "value" : "com.hepsiburada.test.HBTest"
+  }, {
+    "name" : "host",
+    "value" : "LAPTOP-4MK4FSI1"
+  }, {
+    "name" : "thread",
+    "value" : "16204@LAPTOP-4MK4FSI1.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "story",
+    "value" : "Kullanıcı Giriş Kontrolü"
+  }, {
+    "name" : "severity",
+    "value" : "critical"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "critical",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b9f7c766b672bf07.json",
+  "parameterValues" : [ ]
+}

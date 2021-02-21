@@ -1,0 +1,179 @@
+{
+  "uid" : "a5f85b26d5c1fc60",
+  "name" : "Ürünün favorilere eklendiğini doğrula.",
+  "fullName" : "com.hepsiburada.test.HBTest.verifyFavouriteProduct",
+  "historyId" : "91d5ab84f537e1d533aca53b0b980d5c",
+  "time" : {
+    "start" : 1613935761261,
+    "stop" : 1613935763750,
+    "duration" : 2489
+  },
+  "description" : "Ürünün favorilere eklenip eklenmediğini kontrol et.",
+  "descriptionHtml" : "<p>Ürünün favorilere eklenip eklenmediğini kontrol et.</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "setUp",
+    "time" : {
+      "start" : 1613935737537,
+      "stop" : 1613935746859,
+      "duration" : 9322
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "testStage" : {
+    "description" : "Ürünün favorilere eklenip eklenmediğini kontrol et.",
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Ürün beğenilere ekleniyor.",
+      "time" : {
+        "start" : 1613935761261,
+        "stop" : 1613935761537,
+        "duration" : 276
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "hasContent" : false,
+      "stepsCount" : 0
+    }, {
+      "name" : "Beğenilen ürün ismi : Samsung Galaxy A51 2020 128 GB (Samsung Türkiye Garantili)",
+      "time" : {
+        "start" : 1613935761586,
+        "stop" : 1613935761586,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ {
+        "name" : "message",
+        "value" : "Beğenilen ürün ismi : Samsung Galaxy A51 2020 128 GB (Samsung Türkiye Garantili)"
+      } ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "hasContent" : true,
+      "stepsCount" : 0
+    }, {
+      "name" : "Beğendiklerim sayfasına git.",
+      "time" : {
+        "start" : 1613935761611,
+        "stop" : 1613935763376,
+        "duration" : 1765
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "hasContent" : false,
+      "stepsCount" : 0
+    }, {
+      "name" : "Beğendiklerim sayfasındaki ürün ismi :Samsung Galaxy A51 2020 128 GB (Samsung Türkiye Garantili)",
+      "time" : {
+        "start" : 1613935763730,
+        "stop" : 1613935763730,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ {
+        "name" : "message",
+        "value" : "Beğendiklerim sayfasındaki ürün ismi :Samsung Galaxy A51 2020 128 GB (Samsung Türkiye Garantili)"
+      } ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "hasContent" : true,
+      "stepsCount" : 0
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "hasContent" : true,
+    "stepsCount" : 4
+  },
+  "afterStages" : [ {
+    "name" : "tearDown",
+    "time" : {
+      "start" : 1613935764639,
+      "stop" : 1613935765360,
+      "duration" : 721
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "com.hepsiburada.test.HBTest"
+  }, {
+    "name" : "testClass",
+    "value" : "com.hepsiburada.test.HBTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "verifyFavouriteProduct"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Surefire suite"
+  }, {
+    "name" : "suite",
+    "value" : "Surefire test"
+  }, {
+    "name" : "subSuite",
+    "value" : "com.hepsiburada.test.HBTest"
+  }, {
+    "name" : "host",
+    "value" : "LAPTOP-4MK4FSI1"
+  }, {
+    "name" : "thread",
+    "value" : "16204@LAPTOP-4MK4FSI1.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "story",
+    "value" : "Favori Ürün Ekleme Kontrolü"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a5f85b26d5c1fc60.json",
+  "parameterValues" : [ ]
+}

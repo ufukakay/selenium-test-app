@@ -1,0 +1,107 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "Anasayfa Giriş Kontrolü",
+    "children" : [ {
+      "name" : "Anasayfa'nın açıldığını doğrula.",
+      "uid" : "49fbf9dce4c6b8fa",
+      "parentUid" : "78aa8f54c9bd9ed90c2c9d4153965b77",
+      "status" : "passed",
+      "time" : {
+        "start" : 1613935746985,
+        "stop" : 1613935747061,
+        "duration" : 76
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "78aa8f54c9bd9ed90c2c9d4153965b77"
+  }, {
+    "name" : "Kullanıcı Giriş Kontrolü",
+    "children" : [ {
+      "name" : "Doğru email ve doğru şifre ile doğrula. ",
+      "uid" : "b9f7c766b672bf07",
+      "parentUid" : "eaa6b3ed55e4b4f84ef90b2257fe0331",
+      "status" : "passed",
+      "time" : {
+        "start" : 1613935747207,
+        "stop" : 1613935756033,
+        "duration" : 8826
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "eaa6b3ed55e4b4f84ef90b2257fe0331"
+  }, {
+    "name" : "Ürün Arama Kontrolü",
+    "children" : [ {
+      "name" : "Ürün aramayı doğrula. ",
+      "uid" : "e72704fff640b776",
+      "parentUid" : "139a89772e2866f6b8372d9e21e6085f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1613935756040,
+        "stop" : 1613935759163,
+        "duration" : 3123
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "139a89772e2866f6b8372d9e21e6085f"
+  }, {
+    "name" : "2.Sayfa Kontrolü",
+    "children" : [ {
+      "name" : "2. sayfaya gittiğini doğrula.",
+      "uid" : "62c8d82aece2692d",
+      "parentUid" : "7a3a140ffa0011b308b94bc837d577e1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1613935759169,
+        "stop" : 1613935761253,
+        "duration" : 2084
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "7a3a140ffa0011b308b94bc837d577e1"
+  }, {
+    "name" : "Favori Ürün Ekleme Kontrolü",
+    "children" : [ {
+      "name" : "Ürünün favorilere eklendiğini doğrula.",
+      "uid" : "a5f85b26d5c1fc60",
+      "parentUid" : "9470298d00f94882fe2988147bd22ca2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1613935761261,
+        "stop" : 1613935763750,
+        "duration" : 2489
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "9470298d00f94882fe2988147bd22ca2"
+  }, {
+    "name" : "Favori Ürün Silme Kontrolü",
+    "children" : [ {
+      "name" : "Ürünün silindiğini doğrula.",
+      "uid" : "1eb0bf404224091c",
+      "parentUid" : "6c69d71a424ee1e32414be702d86cc08",
+      "status" : "passed",
+      "time" : {
+        "start" : 1613935763754,
+        "stop" : 1613935764636,
+        "duration" : 882
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "6c69d71a424ee1e32414be702d86cc08"
+  } ]
+}

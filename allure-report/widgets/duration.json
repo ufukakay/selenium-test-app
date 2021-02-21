@@ -1,0 +1,61 @@
+[ {
+  "uid" : "e72704fff640b776",
+  "name" : "Ürün aramayı doğrula. ",
+  "time" : {
+    "start" : 1613935756040,
+    "stop" : 1613935759163,
+    "duration" : 3123
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1eb0bf404224091c",
+  "name" : "Ürünün silindiğini doğrula.",
+  "time" : {
+    "start" : 1613935763754,
+    "stop" : 1613935764636,
+    "duration" : 882
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "49fbf9dce4c6b8fa",
+  "name" : "Anasayfa'nın açıldığını doğrula.",
+  "time" : {
+    "start" : 1613935746985,
+    "stop" : 1613935747061,
+    "duration" : 76
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "b9f7c766b672bf07",
+  "name" : "Doğru email ve doğru şifre ile doğrula. ",
+  "time" : {
+    "start" : 1613935747207,
+    "stop" : 1613935756033,
+    "duration" : 8826
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "a5f85b26d5c1fc60",
+  "name" : "Ürünün favorilere eklendiğini doğrula.",
+  "time" : {
+    "start" : 1613935761261,
+    "stop" : 1613935763750,
+    "duration" : 2489
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "62c8d82aece2692d",
+  "name" : "2. sayfaya gittiğini doğrula.",
+  "time" : {
+    "start" : 1613935759169,
+    "stop" : 1613935761253,
+    "duration" : 2084
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

@@ -1,0 +1,70 @@
+{
+  "total" : 6,
+  "items" : [ {
+    "uid" : "78aa8f54c9bd9ed90c2c9d4153965b77",
+    "name" : "Anasayfa Giriş Kontrolü",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    }
+  }, {
+    "uid" : "eaa6b3ed55e4b4f84ef90b2257fe0331",
+    "name" : "Kullanıcı Giriş Kontrolü",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    }
+  }, {
+    "uid" : "139a89772e2866f6b8372d9e21e6085f",
+    "name" : "Ürün Arama Kontrolü",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    }
+  }, {
+    "uid" : "7a3a140ffa0011b308b94bc837d577e1",
+    "name" : "2.Sayfa Kontrolü",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    }
+  }, {
+    "uid" : "9470298d00f94882fe2988147bd22ca2",
+    "name" : "Favori Ürün Ekleme Kontrolü",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    }
+  }, {
+    "uid" : "6c69d71a424ee1e32414be702d86cc08",
+    "name" : "Favori Ürün Silme Kontrolü",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    }
+  } ]
+}
